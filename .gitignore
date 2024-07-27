@@ -1,0 +1,11 @@
+.DS_Store
+.envrc
+.direnv
+.lsp
+.clj-kondo
+
+# These should all be generated
+*.apkg
+*.svg
+
+python
