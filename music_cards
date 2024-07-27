@@ -1,0 +1,280 @@
+	- #### Play or spell a Cmaj chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Cmaj.png)C E G }}
+	- #### Spell a Cmaj chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Cmaj.png)C E G }}
+	- #### Play or spell a Cmin chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Cmin.png)C Eb G }}
+	- #### Spell a Cmin chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Cmin.png)C Eb G }}
+	- #### Play or spell a Caug chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Caug.png)C E G# }}
+	- #### Spell a Caug chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Caug.png)C E G# }}
+	- #### Play or spell a Cdim chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Cdim.png)C Eb Gb }}
+	- #### Spell a Cdim chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Cdim.png)C Eb Gb }}
+	- #### Play or spell a Cdom7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Cdom7.png)C E G Bb }}
+	- #### Spell a Cdom7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Cdom7.png)C E G Bb }}
+	- #### Play or spell a Cmin7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Cmin7.png)C Eb G Bb }}
+	- #### Spell a Cmin7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Cmin7.png)C Eb G Bb }}
+	- #### Play or spell a Cmaj7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Cmaj7.png)C E G B }}
+	- #### Spell a Cmaj7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Cmaj7.png)C E G B }}
+	- #### Play or spell a Caug7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Caug7.png)C E G# Bb }}
+	- #### Spell a Caug7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Caug7.png)C E G# Bb }}
+	- #### Play or spell a Cdim7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Cdim7.png)C Eb Gb Bbb }}
+	- #### Spell a Cdim7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Cdim7.png)C Eb Gb Bbb }}
+	- #### Play or spell a Cm7dim5 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Cm7dim5.png)C Eb Gb Bb }}
+	- #### Spell a Cm7dim5 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Cm7dim5.png)C Eb Gb Bb }}
+	- #### Play or spell a Dmaj chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Dmaj.png)D F# A }}
+	- #### Spell a Dmaj chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Dmaj.png)D F# A }}
+	- #### Play or spell a Dmin chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Dmin.png)D F A }}
+	- #### Spell a Dmin chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Dmin.png)D F A }}
+	- #### Play or spell a Daug chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Daug.png)D F# A# }}
+	- #### Spell a Daug chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Daug.png)D F# A# }}
+	- #### Play or spell a Ddim chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Ddim.png)D F Ab }}
+	- #### Spell a Ddim chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Ddim.png)D F Ab }}
+	- #### Play or spell a Ddom7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Ddom7.png)D F# A C }}
+	- #### Spell a Ddom7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Ddom7.png)D F# A C }}
+	- #### Play or spell a Dmin7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Dmin7.png)D F A C }}
+	- #### Spell a Dmin7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Dmin7.png)D F A C }}
+	- #### Play or spell a Dmaj7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Dmaj7.png)D F# A C# }}
+	- #### Spell a Dmaj7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Dmaj7.png)D F# A C# }}
+	- #### Play or spell a Daug7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Daug7.png)D F# A# C }}
+	- #### Spell a Daug7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Daug7.png)D F# A# C }}
+	- #### Play or spell a Ddim7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Ddim7.png)D F Ab Cb }}
+	- #### Spell a Ddim7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Ddim7.png)D F Ab Cb }}
+	- #### Play or spell a Dm7dim5 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Dm7dim5.png)D F Ab C }}
+	- #### Spell a Dm7dim5 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Dm7dim5.png)D F Ab C }}
+	- #### Play or spell a Emaj chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Emaj.png)E G# B }}
+	- #### Spell a Emaj chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Emaj.png)E G# B }}
+	- #### Play or spell a Emin chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Emin.png)E G B }}
+	- #### Spell a Emin chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Emin.png)E G B }}
+	- #### Play or spell a Eaug chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Eaug.png)E G# B# }}
+	- #### Spell a Eaug chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Eaug.png)E G# B# }}
+	- #### Play or spell a Edim chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Edim.png)E G Bb }}
+	- #### Spell a Edim chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Edim.png)E G Bb }}
+	- #### Play or spell a Edom7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Edom7.png)E G# B D }}
+	- #### Spell a Edom7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Edom7.png)E G# B D }}
+	- #### Play or spell a Emin7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Emin7.png)E G B D }}
+	- #### Spell a Emin7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Emin7.png)E G B D }}
+	- #### Play or spell a Emaj7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Emaj7.png)E G# B D# }}
+	- #### Spell a Emaj7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Emaj7.png)E G# B D# }}
+	- #### Play or spell a Eaug7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Eaug7.png)E G# B# D }}
+	- #### Spell a Eaug7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Eaug7.png)E G# B# D }}
+	- #### Play or spell a Edim7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Edim7.png)E G Bb Db }}
+	- #### Spell a Edim7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Edim7.png)E G Bb Db }}
+	- #### Play or spell a Em7dim5 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Em7dim5.png)E G Bb D }}
+	- #### Spell a Em7dim5 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Em7dim5.png)E G Bb D }}
+	- #### Play or spell a Fmaj chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Fmaj.png)F A C }}
+	- #### Spell a Fmaj chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Fmaj.png)F A C }}
+	- #### Play or spell a Fmin chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Fmin.png)F Ab C }}
+	- #### Spell a Fmin chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Fmin.png)F Ab C }}
+	- #### Play or spell a Faug chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Faug.png)F A C# }}
+	- #### Spell a Faug chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Faug.png)F A C# }}
+	- #### Play or spell a Fdim chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Fdim.png)F Ab Cb }}
+	- #### Spell a Fdim chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Fdim.png)F Ab Cb }}
+	- #### Play or spell a Fdom7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Fdom7.png)F A C Eb }}
+	- #### Spell a Fdom7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Fdom7.png)F A C Eb }}
+	- #### Play or spell a Fmin7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Fmin7.png)F Ab C Eb }}
+	- #### Spell a Fmin7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Fmin7.png)F Ab C Eb }}
+	- #### Play or spell a Fmaj7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Fmaj7.png)F A C E }}
+	- #### Spell a Fmaj7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Fmaj7.png)F A C E }}
+	- #### Play or spell a Faug7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Faug7.png)F A C# Eb }}
+	- #### Spell a Faug7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Faug7.png)F A C# Eb }}
+	- #### Play or spell a Fdim7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Fdim7.png)F Ab Cb Ebb }}
+	- #### Spell a Fdim7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Fdim7.png)F Ab Cb Ebb }}
+	- #### Play or spell a Fm7dim5 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Fm7dim5.png)F Ab Cb Eb }}
+	- #### Spell a Fm7dim5 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Fm7dim5.png)F Ab Cb Eb }}
+	- #### Play or spell a Gmaj chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gmaj.png)G B D }}
+	- #### Spell a Gmaj chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gmaj.png)G B D }}
+	- #### Play or spell a Gmin chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gmin.png)G Bb D }}
+	- #### Spell a Gmin chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gmin.png)G Bb D }}
+	- #### Play or spell a Gaug chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gaug.png)G B D# }}
+	- #### Spell a Gaug chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gaug.png)G B D# }}
+	- #### Play or spell a Gdim chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gdim.png)G Bb Db }}
+	- #### Spell a Gdim chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gdim.png)G Bb Db }}
+	- #### Play or spell a Gdom7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gdom7.png)G B D F }}
+	- #### Spell a Gdom7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gdom7.png)G B D F }}
+	- #### Play or spell a Gmin7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gmin7.png)G Bb D F }}
+	- #### Spell a Gmin7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gmin7.png)G Bb D F }}
+	- #### Play or spell a Gmaj7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gmaj7.png)G B D F# }}
+	- #### Spell a Gmaj7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gmaj7.png)G B D F# }}
+	- #### Play or spell a Gaug7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gaug7.png)G B D# F }}
+	- #### Spell a Gaug7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gaug7.png)G B D# F }}
+	- #### Play or spell a Gdim7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gdim7.png)G Bb Db Fb }}
+	- #### Spell a Gdim7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gdim7.png)G Bb Db Fb }}
+	- #### Play or spell a Gm7dim5 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gm7dim5.png)G Bb Db F }}
+	- #### Spell a Gm7dim5 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Gm7dim5.png)G Bb Db F }}
+	- #### Play or spell a Amaj chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Amaj.png)A C# E }}
+	- #### Spell a Amaj chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Amaj.png)A C# E }}
+	- #### Play or spell a Amin chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Amin.png)A C E }}
+	- #### Spell a Amin chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Amin.png)A C E }}
+	- #### Play or spell a Aaug chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Aaug.png)A C# E# }}
+	- #### Spell a Aaug chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Aaug.png)A C# E# }}
+	- #### Play or spell a Adim chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Adim.png)A C Eb }}
+	- #### Spell a Adim chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Adim.png)A C Eb }}
+	- #### Play or spell a Adom7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Adom7.png)A C# E G }}
+	- #### Spell a Adom7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Adom7.png)A C# E G }}
+	- #### Play or spell a Amin7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Amin7.png)A C E G }}
+	- #### Spell a Amin7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Amin7.png)A C E G }}
+	- #### Play or spell a Amaj7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Amaj7.png)A C# E G# }}
+	- #### Spell a Amaj7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Amaj7.png)A C# E G# }}
+	- #### Play or spell a Aaug7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Aaug7.png)A C# E# G }}
+	- #### Spell a Aaug7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Aaug7.png)A C# E# G }}
+	- #### Play or spell a Adim7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Adim7.png)A C Eb Gb }}
+	- #### Spell a Adim7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Adim7.png)A C Eb Gb }}
+	- #### Play or spell a Am7dim5 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Am7dim5.png)A C Eb G }}
+	- #### Spell a Am7dim5 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Am7dim5.png)A C Eb G }}
+	- #### Play or spell a Bmaj chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Bmaj.png)B D# F# }}
+	- #### Spell a Bmaj chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Bmaj.png)B D# F# }}
+	- #### Play or spell a Bmin chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Bmin.png)B D F# }}
+	- #### Spell a Bmin chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Bmin.png)B D F# }}
+	- #### Play or spell a Baug chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Baug.png)B D# F## }}
+	- #### Spell a Baug chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Baug.png)B D# F## }}
+	- #### Play or spell a Bdim chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Bdim.png)B D F }}
+	- #### Spell a Bdim chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Bdim.png)B D F }}
+	- #### Play or spell a Bdom7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Bdom7.png)B D# F# A }}
+	- #### Spell a Bdom7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Bdom7.png)B D# F# A }}
+	- #### Play or spell a Bmin7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Bmin7.png)B D F# A }}
+	- #### Spell a Bmin7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Bmin7.png)B D F# A }}
+	- #### Play or spell a Bmaj7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Bmaj7.png)B D# F# A# }}
+	- #### Spell a Bmaj7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Bmaj7.png)B D# F# A# }}
+	- #### Play or spell a Baug7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Baug7.png)B D# F## A }}
+	- #### Spell a Baug7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Baug7.png)B D# F## A }}
+	- #### Play or spell a Bdim7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Bdim7.png)B D F Ab }}
+	- #### Spell a Bdim7 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Bdim7.png)B D F Ab }}
+	- #### Play or spell a Bm7dim5 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Bm7dim5.png)B D F A }}
+	- #### Spell a Bm7dim5 chord
+	#card #chord {{ cloze ![chord](../assets/basic_chord_Bm7dim5.png)B D F A }}
